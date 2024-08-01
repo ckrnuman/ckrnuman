@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python - Django
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nmnckr6161@gmail.com
+- 📫 How to reach me numanckrr@gmail.com
 
 <!---
 ckrnuman/ckrnuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
